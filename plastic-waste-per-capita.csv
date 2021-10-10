@@ -1,0 +1,187 @@
+Entity,Code,Per capita plastic waste (kg/person/day)
+Albania,ALB,0.069
+Algeria,DZA,0.144
+Angola,AGO,0.062
+Anguilla,AIA,0.252
+Antigua and Barbuda,ATG,0.66
+Argentina,ARG,0.183
+Aruba,ABW,0.252
+Australia,AUS,0.112
+Bahamas,BHS,0.39
+Bahrain,BHR,0.132
+Bangladesh,BGD,0.034
+Barbados,BRB,0.57
+Belgium,BEL,0.08
+Belize,BLZ,0.172
+Benin,BEN,0.043
+Bermuda,BMU,0.252
+Bosnia and Herzegovina,BIH,0.144
+Brazil,BRA,0.165
+British Virgin Islands,VGB,0.252
+Brunei,BRN,0.026
+Bulgaria,BGR,0.154
+Cambodia,KHM,0.066
+Cameroon,CMR,0.046
+Canada,CAN,0.093
+Cape Verde,CPV,0.065
+Cayman Islands,CYM,0.252
+Channel Islands,OWID_CIS,0.252
+Chile,CHL,0.119
+China,CHN,0.121
+Christmas Island,CXR,0.252
+Cocos Islands,CCK,0.252
+Colombia,COL,0.144
+Comoros,COM,0.201
+Congo,COG,0.069
+Cook Islands,COK,0.144
+Costa Rica,CRI,0.258
+Cote d'Ivoire,CIV,0.103
+Croatia,HRV,0.252
+Cuba,CUB,0.089
+Curacao,CUW,0.252
+Cyprus,CYP,0.248
+Democratic Republic of Congo,COD,0.045
+Denmark,DNK,0.047
+Djibouti,DJI,0.103
+Dominica,DMA,0.149
+Dominican Republic,DOM,0.144
+Ecuador,ECU,0.147
+Egypt,EGY,0.178
+El Salvador,SLV,0.147
+Equatorial Guinea,GNQ,0.144
+Eritrea,ERI,0.045
+Estonia,EST,0.176
+Faeroe Islands,FRO,0.252
+Falkland Islands,FLK,0.252
+Fiji,FJI,0.189
+Finland,FIN,0.234
+France,FRA,0.192
+French Guiana,GUF,0.144
+French Polynesia,PYF,0.252
+Gabon,GAB,0.054
+Gambia,GMB,0.048
+Georgia,GEO,0.068
+Germany,DEU,0.485
+Ghana,GHA,0.04
+Gibraltar,GIB,0.252
+Greece,GRC,0.2
+Greenland,GRL,0.252
+Grenada,GRD,0.325
+Guadeloupe,GLP,0.144
+Guam,GUM,0.252
+Guatemala,GTM,0.28
+Guernsey,GGY,0.252
+Guinea,GIN,0.03
+Guinea-Bissau,GNB,0.054
+Guyana,GUY,0.586
+Haiti,HTI,0.09
+Honduras,HND,0.189
+Hong Kong,HKG,0.398
+Iceland,ISL,0.281
+India,IND,0.01
+Indonesia,IDN,0.057
+Iran,IRN,0.144
+Iraq,IRQ,0.103
+Ireland,IRL,0.43
+Israel,ISR,0.297
+Italy,ITA,0.134
+Jamaica,JAM,0.034
+Japan,JPN,0.171
+Jordan,JOR,0.144
+Kenya,KEN,0.027
+Kiribati,KIR,0.103
+Kuwait,KWT,0.686
+Latvia,LVA,0.124
+Lebanon,LBN,0.094
+Liberia,LBR,0.084
+Libya,LBY,0.144
+Lithuania,LTU,0.132
+Macao,MAC,0.368
+Madagascar,MDG,0.016
+Malaysia,MYS,0.198
+Maldives,MDV,0.322
+Malta,MLT,0.214
+Marshall Islands,MHL,0.192
+Martinique,MTQ,0.252
+Mauritania,MRT,0.045
+Mauritius,MUS,0.23
+Mexico,MEX,0.087
+Micronesia (country),FSM,0.103
+Monaco,MCO,0.252
+Montenegro,MNE,0.144
+Montserrat,MSR,0.144
+Morocco,MAR,0.073
+Mozambique,MOZ,0.015
+Myanmar,MMR,0.075
+Namibia,NAM,0.144
+Nauru,NRU,0.144
+Netherlands,NLD,0.424
+Netherlands Antilles,ANT,0.252
+New Caledonia,NCL,0.252
+New Zealand,NZL,0.331
+Nicaragua,NIC,0.143
+Nigeria,NGA,0.103
+Niue,NIU,0.252
+Norfolk Island,NFK,0.103
+North Korea,PRK,0.054
+Northern Mariana Islands,MNP,0.252
+Norway,NOR,0.28
+Oman,OMN,0.084
+Pakistan,PAK,0.103
+Palau,PLW,0.144
+Palestine,PSE,0.063
+Panama,PAN,0.145
+Papua New Guinea,PNG,0.103
+Peru,PER,0.144
+Philippines,PHL,0.075
+Poland,POL,0.097
+Portugal,PRT,0.265
+Puerto Rico,PRI,0.252
+Qatar,QAT,0.16
+Reunion,REU,0.144
+Romania,ROU,0.042
+Russia,RUS,0.112
+Saint Helena,SHN,0.144
+Saint Kitts and Nevis,KNA,0.654
+Saint Lucia,LCA,0.522
+Saint Pierre and Miquelon,SPM,0.252
+Saint Vincent and the Grenadines,VCT,0.221
+Samoa,WSM,0.103
+Sao Tome and Principe,STP,0.103
+Saudi Arabia,SAU,0.156
+Senegal,SEN,0.103
+Seychelles,SYC,0.358
+Sierra Leone,SLE,0.041
+Singapore,SGP,0.194
+Sint Maarten (Dutch part),SXM,0.252
+Slovenia,SVN,0.145
+Solomon Islands,SLB,0.103
+Somalia,SOM,0.054
+South Africa,ZAF,0.24
+South Korea,KOR,0.112
+Spain,ESP,0.277
+Sri Lanka,LKA,0.357
+Sudan,SDN,0.103
+Suriname,SUR,0.163
+Sweden,SWE,0.048
+Syria,SYR,0.178
+Taiwan,TWN,0.252
+Tanzania,TZA,0.023
+Thailand,THA,0.144
+Togo,TGO,0.057
+Tokelau,TKL,0.103
+Tonga,TON,0.223
+Trinidad and Tobago,TTO,0.29
+Tunisia,TUN,0.144
+Turkey,TUR,0.212
+Turks and Caicos Islands,TCA,0.252
+Tuvalu,TUV,0.144
+Ukraine,UKR,0.103
+United Arab Emirates,ARE,0.199
+United Kingdom,GBR,0.215
+United States,USA,0.335
+Uruguay,URY,0.252
+Vanuatu,VUT,0.295
+Venezuela,VEN,0.252
+Vietnam,VNM,0.103
+Yemen,YEM,0.103
