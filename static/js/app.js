@@ -21,6 +21,8 @@ function init() {
 
 function optionChanged(country){
 
+  buildplots(country)
+
   d3.csv("../data/CountryCity.csv").then((data) => {
   
   console.log(data);
@@ -128,18 +130,20 @@ function optionChanged(country){
 
       buildBody(cities,Cpopulation,CGDP,RegID,IncID,c_name);
   });
-  buildplots()
 });
-
 }
 
 function buildBody(cities,Cpopulation,CGDP,RegID,IncID,c_name) {
   var Panel = d3.select("#sample-metadata");
   Panel.html(""); // too Clear Previous metadata
-  Panel.append("div").text(`Ccuntry Name: ${c_name}`);
+  Panel.append("div").text(`Country Name: ${c_name}`);
+  Panel.append("br")
   Panel.append("div").text(`Key Cities: ${cities}`);
+  Panel.append("br")
   Panel.append("div").text(`Population: ${Cpopulation}`);
+  Panel.append("br")
   Panel.append("div").text(`Gross Domestic Product ($M): ${CGDP}`);
+  Panel.append("br")
 
   d3.csv("../data/Region.csv").then((R) => {
     console.log(R);
@@ -167,6 +171,7 @@ function buildBody(cities,Cpopulation,CGDP,RegID,IncID,c_name) {
       console.log(RegName);
       // console.log(Region_Name);
       Panel.append("div").text(`Region: ${RegName}`);
+      Panel.append("br")
   });
 
   d3.csv("../data/Income.csv").then((I) => {
@@ -203,34 +208,185 @@ function buildBody(cities,Cpopulation,CGDP,RegID,IncID,c_name) {
   });
 }
 
-function buildplots(){
-var chart = new CanvasJS.Chart("chartContainer", {
-	animationEnabled: true,
-	theme: "light2", // "light1", "light2", "dark1", "dark2"
-	title:{
-		text: "Top Oil Reserves"
-	},
-	axisY: {
-		title: "Reserves(MMbbl)"
-	},
-	data: [{        
-		type: "column",  
-		showInLegend: true, 
-		legendMarkerColor: "grey",
-		legendText: "MMbbl = one million barrels",
-		dataPoints: [      
-			{ y: 300878, label: "Venezuela" },
-			{ y: 266455,  label: "Saudi" },
-			{ y: 169709,  label: "Canada" },
-			{ y: 158400,  label: "Iran" },
-			{ y: 142503,  label: "Iraq" },
-			{ y: 101500, label: "Kuwait" },
-			{ y: 97800,  label: "UAE" },
-			{ y: 80000,  label: "Russia" }
-		]
-	}]
+
+
+function buildplots(country){
+
+// Generate Key Cities Waste Collection Graph
+  d3.csv("../data/CityLevelDataset.csv").then((R) => {
+    console.log(R);
+    var CityWaste = R.filter(function(d) 
+      {
+          if( d["CountryID"] == country)
+          { 
+              return d;
+          } 
+      });
+      console.log(CityWaste);
+      var CityData = CityWaste.map(function(k){
+        return{
+          y: parseInt(k.total_msw_tons_year),
+          label: k.city_name,
+        }
+      });
+      console.log(CityData);
+      var datap = [];
+
+    
+      for (var i = 0; i < CityData.length; i++){
+          datap.push(CityData[i]);
+          console.log(CityData[i]);
+         }
+
+         console.log(datap);
+    
+      var chart = new CanvasJS.Chart("chartContainer", {
+        animationEnabled: true,
+        theme: "light2", // "light1", "light2", "dark1", "dark2"
+        title:{
+          text: "Key City Waste Collection",
+          fontSize: 20
+        },
+        axisY: {
+          title: "Total MS Waste",
+          fontSize: 10
+        },
+        axisX: {
+          title: "City Name",
+          fontSize: 10
+        },
+        data: [{        
+          type: "column",  
+          showInLegend: true,
+          dataPoints: datap
+        }]
+      });
+      chart.render();
+  });
+
+// Generate Key Cities Waste Collection Graph
+d3.csv("../data/CountryWasteDataset.csv").then((R) => {
+  console.log(R);
+  var CountryWaste = R.filter(function(d) 
+    {
+        if( d["CountryID"] == country)
+        { 
+            return d;
+        } 
+    });
+
+    console.log(CountryWaste);
+
+    var CWData = CountryWaste.map(function(k){
+      return{
+        y: parseInt(k.Value),
+        label: k.Attribute
+      }
+    });
+    console.log(CWData);
+
+    var CWdatap = [];
+
+  
+    for (var i = 0; i < CWData.length; i++){
+        CWdatap.push(CWData[i]);
+        console.log(CWData[i]);
+       }
+
+      //  var output = Object.entries(CountryWaste).map(([key, value]) => ({key,value}));
+       
+      //  console.log(output);
+
+        console.log(CWdatap);
+  
+       var chartPie = new CanvasJS.Chart("chartPie", {
+        animationEnabled: true,
+        title: {
+          text: "Waste Material %",
+          fontSize: 20
+        },
+        data: [{
+          type: "pie",
+          indexLabelFontSize: 10,
+          radius: 100,
+          indexLabel: "{label} - {y}",
+          yValueFormatString: "###0.0\"%\"",
+          click: explodePie,
+          dataPoints: CWdatap
+        }]
+      });
+      chartPie.render();
 });
-chart.render();
+
+// Generate Key Cities Waste Collection Graph
+d3.csv("../data/CountryLevelSpecialWaste.csv").then((R) => {
+  console.log(R);
+  var CountrySpecialWaste = R.filter(function(d) 
+    {
+        if( d["CountryID"] == country)
+        { 
+            return d;
+        } 
+    });
+
+    console.log(CountrySpecialWaste);
+
+    var CSWData = CountrySpecialWaste.map(function(k){
+      return{
+        y: parseInt(k.Value),
+        label: k.Attribute
+      }
+    });
+    console.log(CSWData);
+
+    var CSWdatap = [];
+
+  
+    for (var i = 0; i < CSWData.length; i++){
+        CSWdatap.push(CSWData[i]);
+        console.log(CSWData[i]);
+       }
+
+      //  var output = Object.entries(CountryWaste).map(([key, value]) => ({key,value}));
+       
+      //  console.log(output);
+
+        console.log(CSWdatap);
+
+var chartBar = new CanvasJS.Chart("chartBar", {
+	animationEnabled: true,
+	
+	title:{
+		text:"Waste Category",
+    fontSize:20
+	},
+	axisX:{
+		interval: 1
+	},
+	axisY2:{
+		interlacedColor: "rgb(130, 191, 255,.3)",
+		gridColor: "rgb(130, 191, 255,.2)",
+		title: "Tons Per Year"
+	},
+	data: [{
+		type: "bar",
+		name: "companies",
+		axisYType: "secondary",
+		color: "rgb(130, 191, 255)",
+		dataPoints: CSWdatap
+	  }]
+  });
+  chartBar.render();
+});
 }
+
+function explodePie(e) {
+	for(var i = 0; i < e.dataSeries.dataPoints.length; i++) {
+		if(i !== e.dataPointIndex)
+			e.dataSeries.dataPoints[i].exploded = false;
+	}
+}
+
+
 
 init();
