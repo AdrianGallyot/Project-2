@@ -1,0 +1,368 @@
+CountryID ,country_name,CityID,city_name,total_msw_total_msw_generated_tons_year
+AFG,Afghanistan,AFG-1,Jalalabad,58914.45
+AFG,Afghanistan,AFG-2,Kandahar,120971
+AFG,Afghanistan,AFG-3,Mazar-E-Sharif,52368.4
+AFG,Afghanistan,AFG-4,Kabul,1989250
+AFG,Afghanistan,AFG-5,Hirat,91644.7
+AGO,Angola,AGO-6,Luanda,1316336
+ALB,Albania,ALB-7,Korca,21000
+ALB,Albania,ALB-8,Vlora,37955
+ARE,United Arab Emirates,ARE-9,Abu Dhabi,1033543
+ARE,United Arab Emirates,ARE-10,Dubai,2689808
+ARG,Argentina,ARG-11,C�rdoba,488735
+ARG,Argentina,ARG-12,Rosario,438730
+ARG,Argentina,ARG-13,Buenos Aires,2532005
+ARM,Armenia,ARM-14,Vanadzor,23596.97
+ARM,Armenia,ARM-15,Spitak,2866
+ASM,American Samoa,ASM-16,Pago Pago,
+AUS,Australia,AUS-17,Perth,
+AUS,Australia,AUS-18,Melbourne,
+AUS,Australia,AUS-19,Canberra,350000
+AUT,Austria,AUT-20,Vienna,1036879
+AZE,Azerbaijan,AZE-21,Baku,1965922
+BDI,Burundi,BDI-22,Muyinga,5657.5
+BDI,Burundi,BDI-23,Kayanza,4015
+BDI,Burundi,BDI-24,Ngozi,6752.5
+BDI,Burundi,BDI-25,Bujumbura,210532
+BEL,Belgium,BEL-26,Brussels,469559
+BEL,Belgium,BEL-27,Liege,525300
+BEN,Benin,BEN-28,Porto Novo,109500
+BEN,Benin,BEN-29,Cotonou,258420
+BFA,Burkina Faso,BFA-30,Bobo Dioulasso,90000
+BFA,Burkina Faso,BFA-31,Ouagadougou,315068
+BGD,Bangladesh,BGD-32,Patuakhali,5220
+BGD,Bangladesh,BGD-33,Chittagong,320380
+BGD,Bangladesh,BGD-34,Rangpur,25992
+BGD,Bangladesh,BGD-35,Dhaka,1424689
+BGD,Bangladesh,BGD-36,Rajshahi,40069.7
+BGR,Bulgaria,BGR-37,Ruse,
+BGR,Bulgaria,BGR-38,Burgas,
+BHR,Bahrain,BHR-39,Manama,
+BIH,Bosnia and Herzegovina,BIH-40,Banja Luka,65941
+BIH,Bosnia and Herzegovina,BIH-41,Sarajevo,146280
+BLR,Belarus,BLR-42,Minsk,1135421
+BLR,Belarus,BLR-43,Grodno,147500
+BLZ,Belize,BLZ-44,San Pedro,10166
+BLZ,Belize,BLZ-45,Belize City,32657
+BOL,Bolivia,BOL-46,La Paz,202456.07
+BRA,Brazil,BRA-47,Brasilia,835480
+BRA,Brazil,BRA-48,Rio De Janeiro,3368499
+BRA,Brazil,BRA-49,Sao Paulo,4700000
+BTN,Bhutan,BTN-50,Phuentsholing,6205
+BTN,Bhutan,BTN-51,Thimphu,18250
+BWA,Botswana,BWA-52,Gaborone,53655
+CAN,Canada,CAN-53,Toronto,942700
+CAN,Canada,CAN-54,Ottawa,325000
+CAN,Canada,CAN-55,Vancouver,909519
+CHE,Switzerland,CHE-56,Bern,59000
+CHE,Switzerland,CHE-57,Zurich,
+CHL,Chile,CHL-58,Santiago De Chile,3072148
+CHN,China,CHN-59,Beijing,7903000
+CIV,Côte d’Ivoire,CIV-60,Abidjan,1200000
+CMR,Cameroon,CMR-61,Limbe,
+CMR,Cameroon,CMR-62,Douala,380695
+CMR,Cameroon,CMR-63,Yaounde,375303.95
+CMR,Cameroon,CMR-64,Bafoussam,30000
+COD,"Congo, Dem. Rep.",COD-65,Kinshasa,2555000
+COG,"Congo, Rep.",COG-66,Dolisie,17550
+COL,Colombia,COL-67,Bogota,1746890
+COL,Colombia,COL-68,Medellin,476455
+COL,Colombia,COL-69,Cali,669410
+COM,Comoros,COM-70,Moroni,
+CRI,Costa Rica,CRI-71,San Jose,132405
+CRI,Costa Rica,CRI-72,Alajuela,80901.44
+CUB,Cuba,CUB-73,Havana,545683.36
+CYP,Cyprus,CYP-74,Paralimini,
+CYP,Cyprus,CYP-75,Nicosia,36198
+CZE,Czech Republic,CZE-76,Karlovy Vary,131539.27
+CZE,Czech Republic,CZE-77,Prague,400900
+DEU,Germany,DEU-78,Hamburg,
+DEU,Germany,DEU-79,Berlin,1350457
+DJI,Djibouti,DJI-80,Djiibouti City,87600
+DNK,Denmark,DNK-81,Copenhagen,233805
+DOM,Dominican Republic,DOM-82,Santo Domingo,1818889
+DZA,Algeria,DZA-83,Algiers,1237874
+DZA,Algeria,DZA-84,Mostaganem,160000
+ECU,Ecuador,ECU-85,Quito,727297.66
+EGY,"Egypt, Arab Rep.",EGY-86,Cairo,5475000
+ESP,Spain,ESP-87,Pamplona,141296
+ESP,Spain,ESP-88,Madrid,2652471
+EST,Estonia,EST-89,Tallinn,202011
+EST,Estonia,EST-90,Tartummaa,
+ETH,Ethiopia,ETH-91,Adola Woyu,3222
+ETH,Ethiopia,ETH-92,Bule Hora,7322
+ETH,Ethiopia,ETH-93,Addis Ababa,413180
+ETH,Ethiopia,ETH-94,Maichew,4907
+ETH,Ethiopia,ETH-95,Tepi,4697.9
+ETH,Ethiopia,ETH-96,Gerbe Guracha,5277.62
+ETH,Ethiopia,ETH-97,Weldiya,4787
+ETH,Ethiopia,ETH-98,Debre Tabor,6570
+ETH,Ethiopia,ETH-99,Bati,1469
+ETH,Ethiopia,ETH-100,Dire Dawa,49275
+ETH,Ethiopia,ETH-101,Halaba Kulito,
+ETH,Ethiopia,ETH-102,Dembi Dolo,3295
+FIN,Finland,FIN-103,Oulu,
+FIN,Finland,FIN-104,Riihimaki,
+FIN,Finland,FIN-105,Turku,
+FJI,Fiji,FJI-106,Suva,24272.5
+FRA,France,FRA-107,Angers-Loire Metropole,136405
+FRA,France,FRA-108,Paris,1092508
+FSM,"Micronesia, Fed. Sts.",FSM-109,Pohnpei,4562.5
+GAB,Gabon,GAB-110,Libreville,417428
+GBR,United Kingdom,GBR-111,London,3560990
+GBR,United Kingdom,GBR-112,Bristol,166000
+GEO,Georgia,GEO-113,Tbilisi,
+GHA,Ghana,GHA-114,Accra,730000
+GHA,Ghana,GHA-115,Kumasi,397047
+GIN,Guinea,GIN-116,Conakry,219000
+GMB,"Gambia, The",GMB-117,Banjul,79935
+GNQ,Equatorial Guinea,GNQ-118,Labe,
+GRC,Greece,GRC-119,Athens,310439.34
+GRC,Greece,GRC-120,Thessaloniki,130629
+GTM,Guatemala,GTM-121,Guatemala City,482700
+GTM,Guatemala,GTM-122,Antigua Guatemala,8483
+GTM,Guatemala,GTM-123,Jutiapa,59100
+HND,Honduras,HND-124,Tegucigalpa,320470
+HND,Honduras,HND-125,San Pedro Sula,289685.9
+HRV,Croatia,HRV-126,Zagreb,255803.62
+HRV,Croatia,HRV-127,Cakovec,8265.14
+HTI,Haiti,HTI-128,Port Au Prince,669127.42
+HUN,Hungary,HUN-129,Debrecen,
+HUN,Hungary,HUN-130,Budapest,1000000
+IDN,Indonesia,IDN-131,Jakarta,2240735
+IMN,Isle of Man,IMN-132,Douglas,
+IND,India,IND-133,Kota,216504
+IND,India,IND-134,Kozhikode,109500
+IND,India,IND-135,Jaipur,542390
+IND,India,IND-136,Tirunelveli,70007
+IND,India,IND-137,Amritsar,227395
+IND,India,IND-138,Allahabad,236640
+IND,India,IND-139,Greater Hyderabad ,1642500
+IND,India,IND-140,Kochi,72000
+IND,India,IND-141,Leh,12045
+IND,India,IND-142,Pune,620500
+IND,India,IND-143,Patna,338106.8
+IND,India,IND-144,Jodhpur,124538
+IND,India,IND-145,Nagpur,383250
+IND,India,IND-146,Shimla,34039.9
+IND,India,IND-147,Rudrapur,23725
+IND,India,IND-148,Bengaluru,1277500
+IND,India,IND-149,Pimpri-Chinchwad,271925
+IND,India,IND-150,Kanpur,547500
+IND,India,IND-151,Rajkot,193450
+IND,India,IND-152,Tenali,34675
+IND,India,IND-153,Lucknow,505525
+IND,India,IND-154,Ludhiana,401500
+IND,India,IND-155,Tadipatri,14600
+IND,India,IND-156,Bhopal,292000
+IND,India,IND-157,Faridabad,242360
+IND,India,IND-158,Cuttack,66816
+IND,India,IND-159,Ahmedabad,1204500
+IND,India,IND-160,Itanagar,29200
+IND,India,IND-161,Vishakhapatnam,354050
+IND,India,IND-162,Nashik,148569.6
+IND,India,IND-163,Dhanbad,197976
+IND,India,IND-164,Delhi,3062350
+IND,India,IND-165,Srinagar,106390.2
+IND,India,IND-166,Ghaziabad,271925
+IND,India,IND-167,Imphal,29200
+IND,India,IND-168,Surat,620500
+IND,India,IND-169,Vijaywada,207320
+IND,India,IND-170,Chennai,1825000
+IND,India,IND-171,Indore,328500
+IND,India,IND-172,Coimbatore,324850
+IND,India,IND-173,Navi Mumbai,237250
+IND,India,IND-174,Greater Mumbai,2497804.5
+IND,India,IND-175,Guwahati,223015
+IND,India,IND-176,Gwalior,138754.75
+IND,India,IND-177,Bhubaneswar,189800
+IND,India,IND-178,Mysore,146730
+IND,India,IND-179,Warangal,109500
+IRL,Ireland,IRL-180,Dublin,142889
+IRN,"Iran, Islamic Rep.",IRN-181,Tehran,2868170
+IRQ,Iraq,IRQ-182,Baghdad,3285000
+ISR,Israel,ISR-183,Jerusalem,
+ISR,Israel,ISR-184,Tel Aviv,
+ITA,Italy,ITA-185,Parma,97142.44
+ITA,Italy,ITA-186,Milano,668158
+JOR,Jordan,JOR-187,Amman,996815
+JPN,Japan,JPN-188,Yokohama,1182892
+JPN,Japan,JPN-189,Kobe,559401
+JPN,Japan,JPN-190,Osaka,1021258
+JPN,Japan,JPN-191,Naha,100375
+JPN,Japan,JPN-192,Kitakyushu,409332
+JPN,Japan,JPN-193,Toyama,163417
+KAZ,Kazakhstan,KAZ-194,Atyrau,100000
+KAZ,Kazakhstan,KAZ-195,Kostanay,
+KEN,Kenya,KEN-196,Eldoret,
+KEN,Kenya,KEN-197,Nairobi,829645
+KGZ,Kyrgyz Republic,KGZ-198,Osh,312700
+KGZ,Kyrgyz Republic,KGZ-199,Bishkek,544700
+KHM,Cambodia,KHM-200,Phnom Penh,711750
+KIR,Kiribati,KIR-201,South Tarawa,8395
+KOR,"Korea, Rep.",KOR-202,Seoul,3353985
+KWT,Kuwait,KWT-203,Kuwait City,
+LAO,Lao PDR,LAO-204,Vientiane,232505
+LBN,Lebanon,LBN-205,Beirut,240000
+LBN,Lebanon,LBN-206,Saida,36500
+LBR,Liberia,LBR-207,Monrovia,284700
+LBY,Libya,LBY-208,Tripoli,263033.6
+LKA,Sri Lanka,LKA-209,Dehiwala Mt. Lavinia Municipal Council,63948
+LKA,Sri Lanka,LKA-210,Kurunegala,17545.55
+LKA,Sri Lanka,LKA-211,Trincomalee,22662.85
+LKA,Sri Lanka,LKA-212,Jaffna,38278
+LKA,Sri Lanka,LKA-213,Moratuwa,45442.5
+LKA,Sri Lanka,LKA-214,Colombo,282875
+LTU,Lithuania,LTU-215,Vilnius,289300
+LTU,Lithuania,LTU-216,Kaunas,130663
+LVA,Latvia,LVA-217,Liepaja,
+LVA,Latvia,LVA-218,Riga,312346
+MAR,Morocco,MAR-219,Rabat,237250
+MAR,Morocco,MAR-220,Tangier,350000
+MAR,Morocco,MAR-221,Beni Mellal,52955
+MDA,Moldova,MDA-222,Soldanesti,2037.5
+MDA,Moldova,MDA-223,Chisinau,282900
+MDG,Madagascar,MDG-224,Antananarivo,401500
+MDV,Maldives,MDV-225,Male,87143.57
+MDV,Maldives,MDV-226,Addu,7612
+MDV,Maldives,MDV-227,Fuahmulah,2510.47
+MEX,Mexico,MEX-228,MÃ©xico City,4705945
+MEX,Mexico,MEX-229,Guadalajara,648812
+MEX,Mexico,MEX-230,Monterrey,430158
+MHL,Marshall Islands,MHL-231,Majuro,8614
+MKD,"Macedonia, FYR",MKD-232,Kratovo,1518
+MKD,"Macedonia, FYR",MKD-233,Skopje,182489
+MLI,Mali,MLI-234,Bamako,330000
+MLI,Mali,MLI-235,Sikasso,46770
+MMR,Myanmar,MMR-236,Mandalay,343100
+MMR,Myanmar,MMR-237,Yangon,723065
+MNE,Montenegro,MNE-238,Podgorica,87808
+MNE,Montenegro,MNE-239,Kotor,10121
+MNG,Mongolia,MNG-240,Ulaanbaatar,1100000
+MNP,Northern Mariana Islands,MNP-241,Saipan,32371.85
+MOZ,Mozambique,MOZ-242,Maputo,401500
+MRT,Mauritania,MRT-243,Nouakchott,
+MWI,Malawi,MWI-244,Blantyre,"100,000"
+MWI,Malawi,MWI-245,Lilongwe,95000
+MYS,Malaysia,MYS-246,Kuala Lumpur,1600000
+NAM,Namibia,NAM-247,Windhoek,57998.5
+NER,Niger,NER-248,Niamey,146000
+NGA,Nigeria,NGA-249,Ilorin,
+NGA,Nigeria,NGA-250,Lagos,1642500
+NGA,Nigeria,NGA-251,Kano,
+NGA,Nigeria,NGA-252,Oyo,20000
+NGA,Nigeria,NGA-253,Ibadan,635000
+NIC,Nicaragua,NIC-254,Puerto Cabezas,14198.5
+NIC,Nicaragua,NIC-255,Managua,468660
+NLD,Netherlands,NLD-256,Amsterdam,324302
+NLD,Netherlands,NLD-257,Eindhoven,
+NOR,Norway,NOR-258,Bergen,70528
+NOR,Norway,NOR-259,Oslo,360876
+NPL,Nepal,NPL-260,Butwal,9902.45
+NPL,Nepal,NPL-261,Pokhara,42745.15
+NPL,Nepal,NPL-262,Dhankuta,2701
+NPL,Nepal,NPL-263,Birgunj,13932.05
+NPL,Nepal,NPL-264,Kathmandu,170141.1
+NPL,Nepal,NPL-265,Lalitpur,30769.5
+NPL,Nepal,NPL-266,Badimalika,872.35
+NPL,Nepal,NPL-267,Bharatpur,21578.8
+NPL,Nepal,NPL-268,Dharan,18585.8
+NPL,Nepal,NPL-269,Bhimeshwor,1036.6
+NPL,Nepal,NPL-270,Biratnagar,21305.05
+NPL,Nepal,NPL-271,Bhaktapur,10548.5
+NZL,New Zealand,NZL-272,Auckland,226352
+NZL,New Zealand,NZL-273,Wellington,302500
+OMN,Oman,OMN-274,Muscat,219000
+PAK,Pakistan,PAK-275,Karachi,2719250
+PAK,Pakistan,PAK-276,Lahore,2436656.415
+PAK,Pakistan,PAK-277,Sialkot,125000
+PAN,Panama,PAN-278,Panama City,494579.98
+PAN,Panama,PAN-279,San Miguelito,199436
+PAN,Panama,PAN-280,Colon,59860
+PER,Peru,PER-281,Cusco,48563
+PHL,Philippines,PHL-282,Cebu,229950
+PHL,Philippines,PHL-283,Quezon City,944328
+PLW,Palau,PLW-284,Koror,1369
+PNG,Papua New Guinea,PNG-285,Port Moresby,107310
+POL,Poland,POL-286,Lodzi,157070.6
+POL,Poland,POL-287,Krakow,320500
+PRT,Portugal,PRT-288,Lisbon,291703.71
+PRT,Portugal,PRT-289,Guimaraes,56000
+PRY,Paraguay,PRY-290,asuncion,282613
+PRY,Paraguay,PRY-291,Ciudad Del Este,157731.1
+PRY,Paraguay,PRY-292,San Lorenzo,105711
+PSE,West Bank and Gaza,PSE-293,Ramallah,
+QAT,Qatar,QAT-294,Doha,359035.9
+ROU,Romania,ROU-295,Cluj-Napoca,112194
+ROU,Romania,ROU-296,Bucharest,632866.62
+RUS,Russian Federation,RUS-297,Moscow,5500000
+RUS,Russian Federation,RUS-298,St.petersburg,2300000
+RUS,Russian Federation,RUS-299,Kemerovo,189254
+RWA,Rwanda,RWA-300,Kigali,871729.5
+RWA,Rwanda,RWA-301,Nyagatare,
+SAU,Saudi Arabia,SAU-302,Jeddah,2200000
+SAU,Saudi Arabia,SAU-303,Riyadh,4380000
+SEN,Senegal,SEN-304,Rufisque,76650
+SLB,Solomon Islands,SLB-305,Honiara,29000
+SLE,Sierra Leone,SLE-306,Freetown,163520
+SLV,El Salvador,SLV-307,San Salvador,293747
+SOM,Somalia,SOM-308,Hargeysa,80000
+SRB,Serbia,SRB-309,Belgrade,781692
+SRB,Serbia,SRB-310,Novi Sad,120773
+SSD,South Sudan,SSD-311,Juba,130053.15
+SVK,Slovak Republic,SVK-312,Trnava,60816
+SVK,Slovak Republic,SVK-313,Bratislava,140594
+SVN,Slovenia,SVN-314,Ljubljana,98410
+SWE,Sweden,SWE-315,Boras,25500
+SWE,Sweden,SWE-316,Stockholm,399133
+SYR,Syrian Arab Republic,SYR-317,Damascus,1095000
+TGO,Togo,TGO-318,Lome,311000
+THA,Thailand,THA-319,Bangkok,4190000
+TJK,Tajikistan,TJK-320,Dushanbe,257000
+TJK,Tajikistan,TJK-321,Khujand,51974
+TKM,Turkmenistan,TKM-322,Ashgabat,164000
+TLS,Timor-Leste,TLS-323,Dili,54750
+TON,Tonga,TON-324,Tongatapu,10950
+TON,Tonga,TON-325,Vava'u,5515
+TUN,Tunisia,TUN-326,Tunis,220000
+TUN,Tunisia,TUN-327,Sfax,77000
+TUN,Tunisia,TUN-328,Sousse,70000
+TUR,Turkey,TUR-329,Sakarya Mm,358139
+TUR,Turkey,TUR-330,Bursa Mm (Metropolitan Municipality),1069711
+TUV,Tuvalu,TUV-331,Funafuti,
+TZA,Tanzania,TZA-332,Dar Es Salaam,1496500
+TZA,Tanzania,TZA-333,Moshi,62050
+TZA,Tanzania,TZA-334,Mountain Kilimanjaro,50000
+UGA,Uganda,UGA-335,Kampala,840000
+UKR,Ukraine,UKR-336,Pavlograd,84600
+UKR,Ukraine,UKR-337,Kiev,1100000
+URY,Uruguay,URY-338,Montevideo,481800
+USA,United States,USA-339,Seattle,720904
+USA,United States,USA-340,Washington,479930.77
+USA,United States,USA-341,Ann Arbor,200767.82
+UZB,Uzbekistan,UZB-342,Namangan,
+UZB,Uzbekistan,UZB-343,Tashkent,500000
+VEN,"Venezuela, RB",VEN-344,Caracas,1787940
+VNM,Vietnam,VNM-345,Hanoi,2390750
+VNM,Vietnam,VNM-346,Ho Chi Minh City,2518500
+VUT,Vanuatu,VUT-347,Port Vila,27000
+WSM,Samoa,WSM-348,Upolu,
+XKX,Kosovo,XKX-349,Gjilan,27000
+XKX,Kosovo,XKX-350,Pristina,130928
+YEM,"Yemen, Rep.",YEM-351,Sanaa,510420.89
+ZAF,South Africa,ZAF-352,Johannesburg,1867000
+ZAF,South Africa,ZAF-353,Cape Town,1251950
+ZAF,South Africa,ZAF-354,Soweto,
+ZAF,South Africa,ZAF-355,Bloemfontein,
+ZAF,South Africa,ZAF-356,Durban,1421541
+ZMB,Zambia,ZMB-357,Ndola,85979.4
+ZMB,Zambia,ZMB-358,Lusaka,530000
+ZWE,Zimbabwe,ZWE-359,Kadoma City,
+ZWE,Zimbabwe,ZWE-360,Mbare,
+ZWE,Zimbabwe,ZWE-361,Norton,14021.04
+ZWE,Zimbabwe,ZWE-362,Chinhoyi,25480
+ZWE,Zimbabwe,ZWE-363,Harare,352334.5
+ZWE,Zimbabwe,ZWE-364,Gweru,37887.6
+ZWE,Zimbabwe,ZWE-365,Kariba,7423.36
+ZWE,Zimbabwe,ZWE-366,Masvingo City,
+ZWE,Zimbabwe,ZWE-367,Sakubva,
