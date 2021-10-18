@@ -1,6 +1,6 @@
 // Append the Drop down list with all the otu_ids on page load
 function init() {
-  d3.csv("../data/Countries.csv").then((data) => {
+  d3.csv("Countries.csv").then((data) => {
   let dropdown = document.getElementById('selDataset');
   dropdown.length = 0;
 
@@ -23,7 +23,7 @@ function optionChanged(country){
 
   buildplots(country)
 
-  d3.csv("../data/CountryCity.csv").then((data) => {
+  d3.csv("CountryCity.csv").then((data) => {
   
   console.log(data);
 
@@ -56,7 +56,7 @@ function optionChanged(country){
 
   console.log(cities);
 
-  d3.csv("../data/Countries.csv").then((C) => {
+  d3.csv("Countries.csv").then((C) => {
 
     console.log(C);
   
@@ -145,7 +145,7 @@ function buildBody(cities,Cpopulation,CGDP,RegID,IncID,c_name) {
   Panel.append("div").text(`Gross Domestic Product ($M): ${CGDP}`);
   Panel.append("br")
 
-  d3.csv("../data/Region.csv").then((R) => {
+  d3.csv("Region.csv").then((R) => {
     console.log(R);
     var filterRegion = R.filter(function(d) 
       {
@@ -174,7 +174,7 @@ function buildBody(cities,Cpopulation,CGDP,RegID,IncID,c_name) {
       Panel.append("br")
   });
 
-  d3.csv("../data/Income.csv").then((I) => {
+  d3.csv("Income.csv").then((I) => {
     console.log(I);
   
     // var resultsArray = countries.filter(CountryCity => CountryCity.CountryID == country);
@@ -213,7 +213,7 @@ function buildBody(cities,Cpopulation,CGDP,RegID,IncID,c_name) {
 function buildplots(country){
 
 // Generate Key Cities Waste Collection Graph
-  d3.csv("../data/CityLevelDataset.csv").then((R) => {
+  d3.csv("CityLevelDataset.csv").then((R) => {
     console.log(R);
     var CityWaste = R.filter(function(d) 
       {
@@ -265,7 +265,7 @@ function buildplots(country){
   });
 
 // Generate Key Cities Waste Collection Graph
-d3.csv("../data/CountryWasteDataset.csv").then((R) => {
+d3.csv("CountryWasteDataset.csv").then((R) => {
   console.log(R);
   var CountryWaste = R.filter(function(d) 
     {
@@ -319,7 +319,7 @@ d3.csv("../data/CountryWasteDataset.csv").then((R) => {
 });
 
 // Generate Key Cities Waste Collection Graph
-d3.csv("../data/CountryLevelSpecialWaste.csv").then((R) => {
+d3.csv("CountryLevelSpecialWaste.csv").then((R) => {
   console.log(R);
   var CountrySpecialWaste = R.filter(function(d) 
     {
