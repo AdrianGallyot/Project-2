@@ -1,0 +1,368 @@
+CityID,city_name,CountryID
+AFG-1,Jalalabad,AFG
+AFG-2,Kandahar,AFG
+AFG-3,Mazar-E-Sharif,AFG
+AFG-4,Kabul,AFG
+AFG-5,Herat,AFG
+AGO-6,Luanda,AGO
+ALB-7,Korca,ALB
+ALB-8,Vlora,ALB
+ARE-9,Abu Dhabi,ARE
+ARE-10,Dubai,ARE
+ARG-11,Cordoba,ARG
+ARG-12,Rosario,ARG
+ARG-13,Ciudada Autonoma De Buenos Aires (Caba).,ARG
+ARM-14,Vanadzor,ARM
+ARM-15,Spitak,ARM
+ASM-16,Pago Pago,ASM
+AUS-17,Perth,AUS
+AUS-18,Melbourne,AUS
+AUS-19,Canberra,AUS
+AUT-20,Vienna,AUT
+AZE-21,Baku,AZE
+BDI-22,Muyinga,BDI
+BDI-23,Kayanza,BDI
+BDI-24,Ngozi,BDI
+BDI-25,Bujumbura,BDI
+BEL-26,Brussels,BEL
+BEL-27,Liege,BEL
+BEN-28,Porto Novo,BEN
+BEN-29,Cotonou,BEN
+BFA-30,Bobo Dioulasso,BFA
+BFA-31,Ouagadougou,BFA
+BGD-32,Patuakhali,BGD
+BGD-33,Chittagong,BGD
+BGD-34,Rangpur,BGD
+BGD-35,Dhaka,BGD
+BGD-36,Rajshahi,BGD
+BGR-37,Ruse,BGR
+BGR-38,Burgas,BGR
+BHR-39,Manama,BHR
+BIH-40,Banja Luka,BIH
+BIH-41,Sarajevo,BIH
+BLR-42,Minsk,BLR
+BLR-43,Grodno,BLR
+BLZ-44,San Pedro,BLZ
+BLZ-45,Belize City,BLZ
+BOL-46,La Paz,BOL
+BRA-47,Brasilia,BRA
+BRA-48,Rio De Janeiro,BRA
+BRA-49,Sao Paulo,BRA
+BTN-50,Phuentsholing,BTN
+BTN-51,Thimphu,BTN
+BWA-52,Gaborone,BWA
+CAN-53,Toronto,CAN
+CAN-54,Ottawa,CAN
+CAN-55,Vancouver,CAN
+CHE-56,Bern,CHE
+CHE-57,Zurich,CHE
+CHL-58,Santiago De Chile,CHL
+CHN-59,Beijing,CHN
+CIV-60,Abidjan,CIV
+CMR-61,Limbe,CMR
+CMR-62,Douala,CMR
+CMR-63,Yaounde,CMR
+CMR-64,Bafoussam,CMR
+COD-65,Kinshasa,COD
+COG-66,Dolisie,COG
+COL-67,Bogota,COL
+COL-68,Medellin,COL
+COL-69,Cali,COL
+COM-70,Moroni,COM
+CRI-71,San Jose,CRI
+CRI-72,Alajuela,CRI
+CUB-73,Havana,CUB
+CYP-74,Paralimini,CYP
+CYP-75,Nicosia,CYP
+CZE-76,Karlovy Vary,CZE
+CZE-77,Prague,CZE
+DEU-78,Hamburg,DEU
+DEU-79,Berlin,DEU
+DJI-80,Djiibouti City,DJI
+DNK-81,Copenhagen,DNK
+DOM-82,Santo Domingo,DOM
+DZA-83,Algiers,DZA
+DZA-84,Mostaganem,DZA
+ECU-85,Quito,ECU
+EGY-86,Cairo,EGY
+ESP-87,Pamplona,ESP
+ESP-88,Madrid,ESP
+EST-89,Tallinn,EST
+EST-90,Tartummaa,EST
+ETH-91,Adola Woyu,ETH
+ETH-92,Bule Hora,ETH
+ETH-93,Addis Ababa,ETH
+ETH-94,Maichew,ETH
+ETH-95,Tepi,ETH
+ETH-96,Gerbe Guracha,ETH
+ETH-97,Weldiya,ETH
+ETH-98,Debre Tabor,ETH
+ETH-99,Bati,ETH
+ETH-100,Dire Dawa,ETH
+ETH-101,Halaba Kulito,ETH
+ETH-102,Dembi Dolo,ETH
+FIN-103,Oulu,FIN
+FIN-104,Riihimaki,FIN
+FIN-105,Turku,FIN
+FJI-106,Suva,FJI
+FRA-107,Angers-Loire Metropole,FRA
+FRA-108,Paris,FRA
+FSM-109,Pohnpei,FSM
+GAB-110,Libreville,GAB
+GBR-111,London,GBR
+GBR-112,Bristol,GBR
+GEO-113,Tbilisi,GEO
+GHA-114,Accra,GHA
+GHA-115,Kumasi,GHA
+GIN-116,Conakry,GIN
+GMB-117,Banjul,GMB
+GNQ-118,Labe,GNQ
+GRC-119,Athens,GRC
+GRC-120,Thessaloniki,GRC
+GTM-121,Guatemala City,GTM
+GTM-122,Antigua Guatemala,GTM
+GTM-123,Jutiapa,GTM
+HND-124,Tegucigalpa,HND
+HND-125,San Pedro Sula,HND
+HRV-126,Zagreb,HRV
+HRV-127,Cakovec,HRV
+HTI-128,Port Au Prince,HTI
+HUN-129,Debrecen,HUN
+HUN-130,Budapest,HUN
+IDN-131,Jakarta,IDN
+IMN-132,Douglas,IMN
+IND-133,Kota,IND
+IND-134,Kozhikode,IND
+IND-135,Jaipur,IND
+IND-136,Tirunelveli,IND
+IND-137,Amritsar,IND
+IND-138,Allahabad,IND
+IND-139,Hyderabad,IND
+IND-140,Kochi,IND
+IND-141,Leh,IND
+IND-142,Pune,IND
+IND-143,Patna,IND
+IND-144,Jodhpur,IND
+IND-145,Nagpur,IND
+IND-146,Shimla,IND
+IND-147,Rudrapur,IND
+IND-148,Bengaluru,IND
+IND-149,Pimpri-Chinchwad,IND
+IND-150,Kanpur,IND
+IND-151,Rajkot,IND
+IND-152,Tenali,IND
+IND-153,Lucknow,IND
+IND-154,Ludhiana,IND
+IND-155,Tadipatri,IND
+IND-156,Bhopal,IND
+IND-157,Faridabad,IND
+IND-158,Cuttack,IND
+IND-159,Ahmedabad,IND
+IND-160,Itanagar,IND
+IND-161,Vishakhapatnam,IND
+IND-162,Nashik,IND
+IND-163,Dhanbad,IND
+IND-164,Delhi,IND
+IND-165,Srinagar,IND
+IND-166,Ghaziabad,IND
+IND-167,Imphal,IND
+IND-168,Surat,IND
+IND-169,Vijaywada,IND
+IND-170,Chennai,IND
+IND-171,Indore,IND
+IND-172,Coimbatore,IND
+IND-173,Navi Mumbai,IND
+IND-174,Greater Mumbai,IND
+IND-175,Guwahati,IND
+IND-176,Gwalior,IND
+IND-177,Bhubaneswar,IND
+IND-178,Mysore,IND
+IND-179,Warangal,IND
+IRL-180,Dublin,IRL
+IRN-181,Tehran,IRN
+IRQ-182,Baghdad,IRQ
+ISR-183,Jerusalem,ISR
+ISR-184,Tel Aviv,ISR
+ITA-185,Parma,ITA
+ITA-186,Milano,ITA
+JOR-187,Amman,JOR
+JPN-188,Yokohama,JPN
+JPN-189,Kobe,JPN
+JPN-190,Osaka,JPN
+JPN-191,Naha,JPN
+JPN-192,Kitakyushu,JPN
+JPN-193,Toyama,JPN
+KAZ-194,Atyrau,KAZ
+KAZ-195,Kostanay,KAZ
+KEN-196,Eldoret,KEN
+KEN-197,Nairobi,KEN
+KGZ-198,Osh,KGZ
+KGZ-199,Bishkek,KGZ
+KHM-200,Phnom Penh,KHM
+KIR-201,South Tarawa,KIR
+KOR-202,Seoul,KOR
+KWT-203,Kuwait City,KWT
+LAO-204,Vientiane,LAO
+LBN-205,Beirut,LBN
+LBN-206,Saida,LBN
+LBR-207,Monrovia,LBR
+LBY-208,Tripoli,LBY
+LKA-209,Dehiwala Mt. Lavinia Municipal Council,LKA
+LKA-210,Kurunegala,LKA
+LKA-211,Trincomalee,LKA
+LKA-212,Jaffna,LKA
+LKA-213,Moratuwa,LKA
+LKA-214,Colombo,LKA
+LTU-215,Vilnius,LTU
+LTU-216,Kaunas,LTU
+LVA-217,Liepaja,LVA
+LVA-218,Riga,LVA
+MAR-219,Rabat,MAR
+MAR-220,Tangier,MAR
+MAR-221,Beni Mellal,MAR
+MDA-222,Soldanesti,MDA
+MDA-223,Chisinau,MDA
+MDG-224,Antananarivo,MDG
+MDV-225,Male,MDV
+MDV-226,Addu,MDV
+MDV-227,Fuahmulah,MDV
+MEX-228,Mexico City,MEX
+MEX-229,Guadalajara,MEX
+MEX-230,Monterrey,MEX
+MHL-231,Majuro,MHL
+MKD-232,Kratovo,MKD
+MKD-233,Skopje,MKD
+MLI-234,Bamako,MLI
+MLI-235,Sikasso,MLI
+MMR-236,Mandalay,MMR
+MMR-237,Yangon,MMR
+MNE-238,Podgorica,MNE
+MNE-239,Kotor,MNE
+MNG-240,Ulaanbaatar,MNG
+MNP-241,Saipan,MNP
+MOZ-242,Maputo,MOZ
+MRT-243,Nouakchott,MRT
+MWI-244,Blantyre,MWI
+MWI-245,Lilongwe,MWI
+MYS-246,Kuala Lumpur,MYS
+NAM-247,Windhoek,NAM
+NER-248,Niamey,NER
+NGA-249,Ilorin,NGA
+NGA-250,Lagos,NGA
+NGA-251,Kano,NGA
+NGA-252,Oyo,NGA
+NGA-253,Ibadan,NGA
+NIC-254,Puerto Cabezas,NIC
+NIC-255,Managua,NIC
+NLD-256,Amsterdam,NLD
+NLD-257,Eindhoven,NLD
+NOR-258,Bergen,NOR
+NOR-259,Oslo,NOR
+NPL-260,Butwal,NPL
+NPL-261,Pokhara,NPL
+NPL-262,Dhankuta,NPL
+NPL-263,Birgunj,NPL
+NPL-264,Kathmandu,NPL
+NPL-265,Lalitpur,NPL
+NPL-266,Badimalika,NPL
+NPL-267,Bharatpur,NPL
+NPL-268,Dharan,NPL
+NPL-269,Bhimeshwor,NPL
+NPL-270,Biratnagar,NPL
+NPL-271,Bhaktapur,NPL
+NZL-272,Auckland,NZL
+NZL-273,Wellington,NZL
+OMN-274,Muscat,OMN
+PAK-275,Karachi,PAK
+PAK-276,Lahore,PAK
+PAK-277,Sialkot,PAK
+PAN-278,Panama City,PAN
+PAN-279,San Miguelito,PAN
+PAN-280,Colon,PAN
+PER-281,Cusco,PER
+PHL-282,Cebu,PHL
+PHL-283,Quezon City,PHL
+PLW-284,Koror,PLW
+PNG-285,Port Moresby,PNG
+POL-286,Lodzi,POL
+POL-287,Krakow,POL
+PRT-288,Lisbon,PRT
+PRT-289,Guimaraes,PRT
+PRY-290,Asunción,PRY
+PRY-291,Ciudad Del Este,PRY
+PRY-292,San Lorenzo,PRY
+PSE-293,Ramallah,PSE
+QAT-294,Doha,QAT
+ROU-295,Cluj-Napoca,ROU
+ROU-296,Bucharest,ROU
+RUS-297,Moscow,RUS
+RUS-298,St.petersburg,RUS
+RUS-299,Kemerovo,RUS
+RWA-300,Kigali,RWA
+RWA-301,Nyagatare,RWA
+SAU-302,Jeddah,SAU
+SAU-303,Riyadh,SAU
+SEN-304,Rufisque,SEN
+SLB-305,Honiara,SLB
+SLE-306,Freetown,SLE
+SLV-307,San Salvador,SLV
+SOM-308,Hargeysa,SOM
+SRB-309,Belgrade,SRB
+SRB-310,Novi Sad,SRB
+SSD-311,Juba,SSD
+SVK-312,Trnava,SVK
+SVK-313,Bratislava,SVK
+SVN-314,Ljubljana,SVN
+SWE-315,Borås,SWE
+SWE-316,Stockholm,SWE
+SYR-317,Damascus,SYR
+TGO-318,Lome,TGO
+THA-319,Bangkok,THA
+TJK-320,Dushanbe,TJK
+TJK-321,Khujand,TJK
+TKM-322,Ashgabat,TKM
+TLS-323,Dili,TLS
+TON-324,Tongatapu,TON
+TON-325,Vavau,TON
+TUN-326,Tunis,TUN
+TUN-327,Sfax,TUN
+TUN-328,Sousse,TUN
+TUR-329,Sakarya Mm,TUR
+TUR-330,Bursa Mm (Metropolitan Municipality),TUR
+TUV-331,Funafuti,TUV
+TZA-332,Dar Es Salaam,TZA
+TZA-333,Moshi,TZA
+TZA-334,Mountain Kilimanjaro,TZA
+UGA-335,Kampala,UGA
+UKR-336,Pavlograd,UKR
+UKR-337,Kiev,UKR
+URY-338,Montevideo,URY
+USA-339,Seattle,USA
+USA-340,Washington Dc,USA
+USA-341,Ann Arbor,USA
+UZB-342,Namangan,UZB
+UZB-343,Tashkent,UZB
+VEN-344,Caracas,VEN
+VNM-345,Hanoi,VNM
+VNM-346,Ho Chi Minh City,VNM
+VUT-347,Port Vila,VUT
+WSM-348,Upolu (Apia),WSM
+XKX-349,Gjilan,XKX
+XKX-350,Pristina,XKX
+YEM-351,Sanaa,YEM
+ZAF-352,Johannesburg,ZAF
+ZAF-353,Cape Town,ZAF
+ZAF-354,Soweto,ZAF
+ZAF-355,Bloemfontein,ZAF
+ZAF-356,Durban,ZAF
+ZMB-357,Ndola,ZMB
+ZMB-358,Lusaka,ZMB
+ZWE-359,Kadoma City,ZWE
+ZWE-360,Mbare,ZWE
+ZWE-361,Norton,ZWE
+ZWE-362,Chinhoyi,ZWE
+ZWE-363,Harare,ZWE
+ZWE-364,Gweru,ZWE
+ZWE-365,Kariba,ZWE
+ZWE-366,Masvingo City,ZWE
+ZWE-367,Sakubva,ZWE
