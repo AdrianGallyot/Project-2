@@ -1,6 +1,6 @@
 // Append the Drop down list with all the otu_ids on page load
 function init() {
-  d3.csv("{{ url_for('static', filename='data/Countries.csv') }}").then((data) => {
+  d3.csv("../data/Countries.csv").then((data) => {
   let dropdown = document.getElementById('selDataset');
   dropdown.length = 0;
 
