@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>World of Waste</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  </head>
+<body>
+<div class="container">
+ <div class="row">
+        <div class="col-md-12">
+        <form method="POST" action="/send" role="form", name="petform">
+          <div class="form-group">
+              <label for="selDataset">Select Country:</label>
+              <select id="selDataset" onchange="optionChanged(this.value)"></select>
+          </div>
+        </form>
+        </div>
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Country Information</h3>
+          </div>
+          <div id="sample-metadata" class="panel-body"></div>
+        </div>
+          <div id="chartContainer" class="container"></div>
+        </div>
+
+ </div>
+</div> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<script src="../static/js/app.js"></script>
+</body>
+</html>
