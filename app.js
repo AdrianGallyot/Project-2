@@ -22,6 +22,7 @@ function init() {
 function optionChanged(country){
 
   buildplots(country)
+  BuildBubblePlot()
 
   d3.csv("CountryCity.csv").then((data) => {
   
@@ -378,7 +379,73 @@ var chartBar = new CanvasJS.Chart("chartBar", {
   });
   chartBar.render();
 });
+} // End of BuildPlot function
+
+function BuildBubblePlot(){
+
+  // Generate Country Population to Waste Bubble Graph
+d3.csv("Countries.csv").then((R) => {
+  console.log(R);
+  var CountryDomWaste = R.filter(function(d) 
+    {
+        if( d["TotalDomesticWaste"] > 5000000)
+        { 
+            return d;
+        } 
+    });
+
+    console.log(CountryDomWaste);
+
+    var CDWData = CountryDomWaste.map(function(k){
+      return{
+        y: parseInt(k.Population/k.TotalDomesticWaste),
+        label: k.country_name
+      }
+    });
+
+    console.log(CDWData);
+
+    var PopulationWaste = [];
+
+    for (var i = 0; i < CDWData.length; i++){
+        PopulationWaste.push(CDWData[i]);
+        console.log(CDWData[i]);
+       }
+
+        console.log(PopulationWaste);
+
+var chartBarp = new CanvasJS.Chart("chartBarp", {
+	animationEnabled: true,
+	
+	title:{
+		text:"World Average Domestic Waste Per Person",
+    fontSize:15
+	},
+	// axisX:{
+	// 	interval: 1,
+  //   fontSize:10
+	// },
+	axisY2:{
+		interlacedColor: "rgb(130, 191, 255,.3)",
+		gridColor: "rgb(130, 191, 255,.2)",
+    fontSize: 10
+	},
+	data: [{
+		type: "bar",
+		name: "companies",
+		axisYType: "secondary",
+		color: "rgb(130, 191, 255)",
+		dataPoints: PopulationWaste
+	  }]
+  });
+
+  chartBarp.render();
+
+});
+
+
 }
+
 
 function explodePie(e) {
 	for(var i = 0; i < e.dataSeries.dataPoints.length; i++) {
