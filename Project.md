@@ -6,7 +6,10 @@ These will include key figures for waste percentage by percentage of waste type,
 It will read in 9 separate datasets to create a relational database with relationships between Country, geographic region (Based on World Bank figures) and Income Level (based on GDP figures) and key cities.
 The dashboard will display a variety of graphs that will show the key data in bar, scatter and pie chart with some dynamic elements using the Chart.js, and Canvas js libraries.
 
- These will be triggered by a dropdown with a unique list of Countries.
- 
+These will be triggered by a dropdown with a unique list of Countries.
 
+
+Final Presentation:
+
+https://docs.google.com/presentation/d/19Qc9xMxzaXxNgpgD8QX9B59TY7r_ONMF8DBUC4ZvNTE/edit?usp=sharing
  
